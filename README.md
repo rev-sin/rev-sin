@@ -35,7 +35,6 @@
 <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
 <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/> 
 <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/>
-<img src="https://skillicons.dev/icons?i=archlinux" title="Arch"/>
 <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
 <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
 <img src="https://skillicons.dev/icons?i=nginx" title="NGINX"/>
