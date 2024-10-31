@@ -19,12 +19,13 @@
 <img src="https://skillicons.dev/icons?i=python" title="Python"/>
 <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
 <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+<img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS"/>
 <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
 <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript"/>
 <img src="https://skillicons.dev/icons?i=react" title="React"/>
 <img src="https://skillicons.dev/icons?i=next" title="NextJS"/>
-<img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS"/>
 <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"/>
+<img src="https://skillicons.dev/icons?i=bun" title="Bun"/>  
 <img src="https://skillicons.dev/icons?i=express" title="Express"/>
 <img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
 <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
