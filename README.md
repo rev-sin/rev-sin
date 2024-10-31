@@ -26,25 +26,18 @@
 <img src="https://skillicons.dev/icons?i=next" title="NextJS"/>
 <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"/>
 <img src="https://skillicons.dev/icons?i=bun" title="Bun"/>  
+<img src="https://skillicons.dev/icons?i=deno" title="Deno"/>  
 <img src="https://skillicons.dev/icons?i=express" title="Express"/>
-<img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
 <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
+<img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
 <img src="https://skillicons.dev/icons?i=django" title="Django"/>
 <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
 <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/> 
 <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/>
-<!-- <img src="https://skillicons.dev/icons?i=go" title="Go"/> -->
 <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
-<!-- <img src="https://skillicons.dev/icons?i=haskell" title="Haskell"/> -->
 <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
 <img src="https://skillicons.dev/icons?i=nginx" title="NGINX"/>
 <img src="https://skillicons.dev/icons?i=git" title="Git"/>
-<img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
-<!-- <img src="https://skillicons.dev/icons?i=redis" title="Redis"/> -->
+<img src="https://skillicons.dev/icons?i=github" title="GitHub"/>  
 </div>
-
-<br>
-<br>
-<h1 align="center">  GitHub Contributions Graph </h1>
-
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rev-sin&theme=github-dark)](https://github.com/rev-sin)
