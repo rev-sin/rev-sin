@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Hi, I'm Revanth Singothu<br>Full-Stack Web/Mobile Developer
-
+Interested in Artificial Intelligence, Cloud Computing, Linux Ricing
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/revanth.singothu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rsin___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/revanth-singothu-0b149a1b6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/revsingothu) 
