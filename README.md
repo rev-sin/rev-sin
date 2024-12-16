@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=rev-sin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Hi, I'm Revanth Singothu<br>Full-Stack Web/Mobile Developer
+Hi, I'm Revanth Singothu<br>Full-Stack Web/Mobile Developer<br>
 Interested in Artificial Intelligence, Cloud Computing, Linux Ricing
 
 ## 🌐 Socials:
