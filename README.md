@@ -9,7 +9,6 @@ Full-Stack Web/Mobile Developer<br>RAG/LLMS<br>Edge/Serverless<br>Linux Ricing
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:revanthsingothu@gmail.com)
 
 # 💻 Tech Stack:
-<div style="text-align: center">
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
@@ -28,7 +27,6 @@ Full-Stack Web/Mobile Developer<br>RAG/LLMS<br>Edge/Serverless<br>Linux Ricing
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-</div>
 
 # 📊 GitHub Stats:
 
