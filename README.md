@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Full-Stack Web/Mobile Developer<br>RAG/LLMS<br>Edge/Serverless<br>Linux Ricing
+Full-Stack Web/Mobile Developer<br>RAG/LLMS<br>Linux Ricing
 
 ## 🌐 Socials:
 
