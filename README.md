@@ -10,7 +10,7 @@ Full-Stack Web/Mobile Developer<br>RAG/LLMS<br>Linux Ricing
 
 # 💻 Tech Stack:
   
-<center>
+<p align="center">
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,10 +28,11 @@ Full-Stack Web/Mobile Developer<br>RAG/LLMS<br>Linux Ricing
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-</center>
+</p>
+
 
 # 📊 GitHub Stats:
-<center>
+<p align="center">
   ![](https://github-readme-stats.vercel.app/api?username=rev-sin&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=rev-sin&theme=gruvbox&hide_border=true)<br/>
-</center>
+</p>
