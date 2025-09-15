@@ -1,14 +1,14 @@
-# 💫 About Me:
+## About Me:
 
 Full-Stack Web/Mobile Developer<br>RAG/LLMS<br>Edge/Serverless<br>Linux Ricing
 
-## 🌐 Socials:
+## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/revanth-singothu-0b149a1b6)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@revsingothu)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:revanthsingothu@gmail.com)
 
-# 💻 Tech Stack:
+## Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
@@ -28,7 +28,7 @@ Full-Stack Web/Mobile Developer<br>RAG/LLMS<br>Edge/Serverless<br>Linux Ricing
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rev-sin&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false">
   <img src="https://nirzak-streak-stats.vercel.app/?user=rev-sin&theme=gruvbox&hide_border=true">
